@@ -12,6 +12,9 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "engines": {
+    "node": ">=16"
+  },
   "devDependencies": {
     "@types/node": "^18.15.11",
     "prettier": "^2.8.7",
